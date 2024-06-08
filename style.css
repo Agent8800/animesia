@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 html {
-	font-size: 10px;
+	font-size: 24px;
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
@@ -199,11 +199,9 @@ p {
 /* End Header section */
 
 /* Hero Section  services     */
-#hero {	background-image: url(https://i.postimg.cc/9F3hzh8d/sad-anime-girl-white-dress-hd-anime-girl.jpg);
+#hero {	background-image: url('https://i.postimg.cc/9F3hzh8d/sad-anime-girl-white-dress-hd-anime-girl.jpg');
 	background-size: cover;
-	background-position: top center;
-	position: relative;
-	z-index: 1;
+	background-position: center;
 }
 #hero::after {
 	content: '';
@@ -358,7 +356,7 @@ p {
 
 /* Footer */
 #footer {
-	background-image: black(60deg, #000000 0%, #000000 100%);
+	background-image: Solid_Black(60deg, #000000 0%, #000000 100%);
 }
 #footer .footer {
 	min-height: 20px;
