@@ -48,7 +48,7 @@ p {
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
-	color: white;
+	color: black;
 	background-color: transparent;
 	border: 2px solid rgb(20, 113, 220);
 	font-size: 2rem;
