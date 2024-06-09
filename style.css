@@ -35,7 +35,7 @@ p {
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
-	color: white;
+	color: black;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
@@ -59,7 +59,7 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
+	color: black;
 	background-color: rgb(20, 113, 220);
 }
 .brand h1 {
